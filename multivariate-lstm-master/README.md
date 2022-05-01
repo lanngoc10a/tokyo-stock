@@ -1,5 +1,5 @@
 <h3>Video tutorial for the code: https://youtu.be/gSYiKKoREFI</h3>
-
+ From the author:
 <p>
 Build a Artificial Neural Network (ANN) with Long-Short Term Memory unit (LSTM) to predict value which can be impacted by multiple different features.
 <br>
